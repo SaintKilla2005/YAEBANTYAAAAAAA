@@ -1,0 +1,9 @@
+﻿  FirstDychenko.cpp
+H:\FirstDychenko\FirstDychenko\FirstDychenko.cpp(12,3): error C2065: a: необъявленный идентификатор
+  Triangle.cpp
+H:\FirstDychenko\FirstDychenko\FirstDychenko.cpp(101,22): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "std::list<Triangle,std::allocator<Triangle>>" (или приемлемое преобразование отсутствует)
+H:\FirstDychenko\FirstDychenko\Triangle.cpp(10,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+H:\FirstDychenko\FirstDychenko\Triangle.cpp(50,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+H:\FirstDychenko\FirstDychenko\Triangle.cpp(53,19): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+H:\FirstDychenko\FirstDychenko\Triangle.cpp(70,1): warning C4715: Triangle::IncreaseAngle: значение возвращается не при всех путях выполнения
